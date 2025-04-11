@@ -51,7 +51,29 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
-
 ### 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanon-X&layout=compact&theme=tokyonight)
+
+
+
+## 📊 GitHub Contributions
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kanon-X&show_icons=true&theme=github_dark&hide_border=true" alt="kanon-X's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanon-X&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+
+
+## 🧩 GitHub Contribution Graph
+
+[![kanon-X's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanon-X&theme=github-compact&hide_border=true)](https://github.com/kanon-X)
+
+
