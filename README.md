@@ -92,9 +92,7 @@ Here are some ideas to get you started:
 
 ### 📊 Most Used Languages
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanon-X&layout=compact&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanon-X&theme=tokyonight)](https://github.com/kanon-X)
 
 
 
