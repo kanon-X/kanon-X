@@ -93,16 +93,24 @@ Here are some ideas to get you started:
 
 ### 📊 Most Used Languages
 
-<img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanon-X&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kanon-X"/>
 
 
+ <table>
+  <tr>
+    <td>
+      <img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanon-X&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kanon-X"/>
+    </td>
+   </tr>
+   </table>
+    ## 📊 GitHub Contributions
+    <table>
+     <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanon-X&theme=dark" alt="kanon-X"/>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Contributions
-
-
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanon-X&theme=dark" alt="kanon-X"/>
 
 
 
