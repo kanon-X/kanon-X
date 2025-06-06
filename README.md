@@ -99,12 +99,10 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Contributions
 
-<p align="center">
-  <img align="center" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pran0x&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pran0x90"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pran0x&theme=dark" alt="pran0x90"/>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanon-X&theme=dark" alt="kanon-X"/>
 </p>
 
 
