@@ -99,10 +99,14 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Contributions
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanon-X&show_icons=true&theme=github_dark&hide_border=true" alt="kanon-X's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanon-X&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <img align="center" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pran0x&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pran0x90"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pran0x&theme=dark" alt="pran0x90"/>
+</p>
+
 
 
 ## 🧩 GitHub Contribution Graph
