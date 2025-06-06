@@ -93,8 +93,7 @@ Here are some ideas to get you started:
 
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanon-X&theme=tokyonight)](https://github.com/kanon-X)
-
+<img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanon-X&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kanon-X"/>
 
 
 
