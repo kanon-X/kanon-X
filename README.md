@@ -90,26 +90,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&style=for-the-badge" height="35" alt="Windows logo" />
 </div>
 
-
-### 📊 Most Used Languages
-
-
-
- <table>
+<table>
   <tr>
     <td>
       <img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanon-X&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kanon-X"/>
     </td>
-   </tr>
-   </table>
-    ## 📊 GitHub Contributions
-    <table>
-     <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanon-X&theme=dark" alt="kanon-X"/>
     </td>
   </tr>
 </table>
+
 
 
 
