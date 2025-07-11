@@ -99,7 +99,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanon-X&theme=dark" alt="kanon-X"/>
     </td>
   </tr>
-
+<table>
 
 
 
